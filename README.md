@@ -62,7 +62,7 @@ plt.title('Total Sales by Item Fat Content')
 plt.axis('equal')  
 plt.show()
 ```
-<img width="800" height="650" alt="total sales by item fat content" src="https://github.com/user-attachments/assets/3c465fd8-cb7f-42c8-bfbb-dd97f2fec3ae" />
+<img width="400" height="550" alt="total sales by item fat content" src="https://github.com/user-attachments/assets/3c465fd8-cb7f-42c8-bfbb-dd97f2fec3ae" />
 
 # Total sales by item type
 ```python
@@ -76,7 +76,7 @@ plt.legend(title='Item Type')
 plt.tight_layout()
 plt.show()
 ```
-<img width="1891" height="1405" alt="total sales b item type" src="https://github.com/user-attachments/assets/4a50e06f-5d10-4d4a-9068-2439571e543e" />
+<img width="500" height="800" alt="total sales b item type" src="https://github.com/user-attachments/assets/4a50e06f-5d10-4d4a-9068-2439571e543e" />
 
 # Fat content by outlet for total sales
 ```python
@@ -93,7 +93,7 @@ plt.tight_layout()
 plt.grid(True)
 plt.show()
 ```
-<img width="2971" height="1765" alt="Total sales by outlet type and fat content" src="https://github.com/user-attachments/assets/87d0c9d7-5cab-4ab0-82fe-6c32bc82f2fb" />
+<img width="500" height="800" alt="Total sales by outlet type and fat content" src="https://github.com/user-attachments/assets/87d0c9d7-5cab-4ab0-82fe-6c32bc82f2fb" />
 
 
 # Total sales by outlet establishment year
@@ -110,7 +110,7 @@ plt.legend(title='Total Sales')
 plt.grid(True)
 plt.show()
 ```
-<img width="2970" height="1766" alt="Total sales buy outlet establishment year" src="https://github.com/user-attachments/assets/388aa757-4add-4e6e-a42b-8f106e837f9e" />
+<img width="500" height="800" alt="Total sales buy outlet establishment year" src="https://github.com/user-attachments/assets/388aa757-4add-4e6e-a42b-8f106e837f9e" />
 
 #Sales by outlet size
 ```python
@@ -125,7 +125,7 @@ plt.legend(title='Outlet Size')
 plt.show()
 ```
 
-<img width="1488" height="1466" alt="Outlet Size" src="https://github.com/user-attachments/assets/8d91975e-6777-4855-b7d6-ab897891d206" />
+<img width="500" height="800" alt="Outlet Size" src="https://github.com/user-attachments/assets/8d91975e-6777-4855-b7d6-ab897891d206" />
 
 # Sales by outlet location
 ```python
@@ -141,6 +141,6 @@ plt.tight_layout()
 plt.legend(title='Outlet Location Type')
 plt.show()
 ```
-<img width="2369" height="1765" alt="Total Sales by Outlet Location Type" src="https://github.com/user-attachments/assets/18a5430c-0657-48c5-abc6-a85712866326" />
+<img width="500" height="800" alt="Total Sales by Outlet Location Type" src="https://github.com/user-attachments/assets/18a5430c-0657-48c5-abc6-a85712866326" />
 
  
